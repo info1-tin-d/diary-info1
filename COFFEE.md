@@ -1,0 +1,34 @@
+- Assemblé la machine
+- Brancher la machine
+- Ôter le réservoir 
+- Enlever le couvercle
+- Remplir le réservoir
+- Installer le réservoir
+- Remettre le couvercle
+- Observer le café
+- Se dit qu'il n'est pas un expert
+- Rigole
+- Appuyer sur le bouton droite 
+- Tient ça clignote !
+- Ah, ça clignote plus, ca doit être prêt à être utilisé.
+- Ouvre le carton
+- Prend un verre le premier du
+- Pose le verre 
+- Bascule le capot
+- Prend une capsule qu'on insert dans le compartiment
+- Referme le capôt
+- Appuie une fois.. Constate que a marche pas
+- Rappuie... ça marche
+- Le café est trop petit, je rappuye. 
+- Je rappuye pour arrêter.
+- Je récupère ma tasse et je savoure
+
+- Appuye sur la touche droite
+- Allume le chauffage
+- Les deux leds clignotent
+- Tant que la température de travail n'est pas atteinte
+   - On continue à chauffer
+- Les leds ne clignotent plus
+- Attends qu'un bouton soit appuyé
+-
+   
