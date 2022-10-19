@@ -1,17 +1,18 @@
 # Semaine 04/16
 
-- [ ] STDIN STDOUT 
-- [ ] Écriture formattée
-  - [ ] `printf("format", var1, var2);`
-  - [ ] `%d` Entiers signés
-  - [ ] `%c` Caractère
-  - [ ] `%f` Float
-  - [ ] `%lf` Double
-  - [ ] `%g` Afficher un float en version raccourcie (enlève les zéros en trop)
-  - [ ] `%04.3f` Affiche un float en format `0023.213`
-  - [ ] `%x`
-- [ ] Lecture formattée
-  - [ ] `scanf("format", &var1, &var2)`
+- [x] STDIN STDOUT STDERR
+- [x] Écriture formattée
+  - [x] `printf("format", var1, var2);`
+  - [x] `%d` Entiers signés
+  - [x] `%c` Caractère
+  - [x] `%f` Float
+  - [x] `%lf` Double
+  - [x] `%g` Afficher un float en version raccourcie (enlève les zéros en trop)
+  - [x] `%04.3f` Affiche un float en format `0023.213`
+  - [x] `%x`
+- [x] Lecture formattée
+  - [x] `scanf("format", &var1, &var2)`
+- [ ] sscanf
 
 
 $ echo "1" | ./a.out 2 | ./a.out 3 | ./a.out 10 | cowsay | lolcat
