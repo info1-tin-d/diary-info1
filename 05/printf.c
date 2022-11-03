@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h> 
+#include <stdbool.h>
 
 void pf(char *a, char c) {
     bool special = false;
