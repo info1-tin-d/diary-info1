@@ -57,6 +57,7 @@ int main(int argc, char *argv[]) {
 
     // -------------------------------------
 
+    // Comparaison de chaînes de caractères
     char *arg = argv[1];
     char *version = "--version";
 
@@ -69,4 +70,6 @@ int main(int argc, char *argv[]) {
     }
     printf("Yeah!\n");
     exit(0);
+
+    
 }

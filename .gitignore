@@ -1,6 +1,5 @@
 a.out
-*.o 
-prout 
+*.o
+prout
 toto
 titi
-tata

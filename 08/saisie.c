@@ -57,3 +57,12 @@ int main()
 }
 
 // "\n"
+
+
+char buffer[64];
+//scanf("%63s", buffer);
+gets(buffer, sizeof(buffer));
+
+if (sscanf(buffer, "%d", &number) != 1) {
+    printf("Erreur");
+}
