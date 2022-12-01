@@ -9,10 +9,14 @@
 
 ```c
 int a[10] = {1,2,3,4,5,6,7,8,9,10};
-
+//             ^ a[1]
 printf("%d\n", a[1]); // a[1] sucre syntaxique === *(a+1)
 ```
 
+```c
+int m[2][3] = {{1,2,3}, {4,5,6}};
+printf("%d\n", m[1][2]); //
+```
 ## Pointeurs
 
 - `int a` Réserver un espace de 4 bytes en mémoire dans lequel vous pouvez stocker de l'information
